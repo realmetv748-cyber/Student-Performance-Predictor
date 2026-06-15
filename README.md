@@ -51,6 +51,15 @@ See `residual_plot.png`
 - XGBoost
 - Hyperparameter Tuning
 - Cross Validation
+- ## Installation
+
+pip install pandas scikit-learn matplotlib
+
+## Usage
+
+Run the notebook:
+
+Student_Performance_Predictor.ipynb
 
 ## Author
 RS Malik
